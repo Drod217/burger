@@ -1,0 +1,25 @@
+body {
+    background-image: url("/assets/img/burger.jpg");
+    background-size: 90%;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+h2 {
+    color: white;
+}
+.add-burger {
+    background: green;
+}
+.yesdevoured {
+    background: red;
+}
+
+.notdevoured {
+    background: orange;
+    color: green;
+}
+
+#burg {
+    color: black;
+}
